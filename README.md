@@ -1,4 +1,1 @@
-Hello there! I am 5xGu. This is currently under delevopment.
-Please standby.
-
-I am partly developing on gitlab: https://gitlab.gwdg.de/t.plattner/ so check that out too!
+Hello there! I am 5xGu. Here you can find some of the projects I have the rights to!
